@@ -1,4 +1,4 @@
-### Olá Devs eus sou o Júlio!!👋
+### Olá Devs eu sou o Júlio!!👋
 
 
 - 🔭 Agora trabalho com Front-End ...
