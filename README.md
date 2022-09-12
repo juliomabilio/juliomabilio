@@ -1,4 +1,4 @@
-### Hi there , my name is Júlio Mabílio👋
+### Hi there 👋 , my name is Júlio Mabílio .
 
 
 - 🔭 Trabalhando com Front-End ...
