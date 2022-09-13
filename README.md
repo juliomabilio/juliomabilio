@@ -1,5 +1,5 @@
 ### Hi there 👋 , my name is Júlio Mabílio .
 
 
-- 🔭 Trabalhando com Front-End ...
-- 🌱 Estudando React e TypeScript ...
+- 🔭  Working with Front-End .
+- 🌱 Studying React and TypeScript .
