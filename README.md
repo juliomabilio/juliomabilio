@@ -2,4 +2,3 @@
 
 
 - 🔭  Working with Front-End .
-- 🌱 Studying React and TypeScript .
